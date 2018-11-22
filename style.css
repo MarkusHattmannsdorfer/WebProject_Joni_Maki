@@ -1,1 +1,19 @@
+body{
 
+}
+
+
+html {
+background: url("Aprilia_Fertig2.png") no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+background-attachment: fixed;
+
+width: 1200px;
+height: 1200px;
+
+color: white;
+
+}
